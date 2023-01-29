@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashirsnaggs&label=Profile%20views&color=0e75b6&style=flat" alt="kashirsnaggs" /> </p>
-<img align="right" alt="coding" width="100" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
+<img align="left" alt="coding" width="100" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
 - 🔭 I’m currently working on **Ecommerce platform**
 
 - 🌱 I’m currently learning **Auth , Seo , PHP**
