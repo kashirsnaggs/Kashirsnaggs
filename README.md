@@ -4,7 +4,7 @@
 <h3 align="center">Im a FullStack Developer from Canada</h3>
 <img align="right" alt="coding" width="100" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashirsnaggs&label=Profile%20views&color=0e75b6&style=flat" alt="kashirsnaggs" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashirsnaggs&label=Profile%20views&color=0e75b6&style=flat" alt="kashirsnaggs" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce platform**
 
