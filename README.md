@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashir</h1>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif">
+<img align="center" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
 <h3 align="center">Im a FullStack Developer from Canada</h3>
 
