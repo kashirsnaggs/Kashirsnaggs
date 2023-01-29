@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashir</h1>
-<img align="center" alt="coding" width="600" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif">
+<img align="right" alt="coding" width="600" src="https://media.tenor.com/eLAfrLgpWZsAAAAM/robotics-world-nft.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif">
 
 <h3 align="center">Im a FullStack Developer from Canada</h3>
 
