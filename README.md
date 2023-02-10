@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashir</h1>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BraveViciousDeviltasmanian-size_restricted.gif">
 
-<h3 align="center">Im a FullStack Developer from Canada</h3>
+<h3 align="center">Im a FullStack Developer from Tobago and Canada</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashirsnaggs&label=Profile%20views&color=0e75b6&style=flat" alt="kashirsnaggs" /> </p>
